@@ -1,0 +1,1 @@
+# Whisper-adaptavimas-lietuviu-kalbai
